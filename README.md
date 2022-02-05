@@ -1,10 +1,20 @@
-## Hi there, I'm Filipe Dias 👋
+<h3>
+  Hi there, I'm Filipe Dias 👋
+</h3>
 
-- 🔭 I’m currently working as a Full Stack developer
-- 🌱 I’m currently learning Node and React
-- 👯 I’m looking to collaborate on fun projects
-- 💬 Ask me about web development
-- 📫 You can reach me at filipediascontato@gmail.com
+<ul>
+  <li>🔭 I’m currently working as a Full Stack developer</li>
+  <li>🌱 I’m currently learning Node and React</li>
+  <li>👯 I’m looking to collaborate on fun projects</li>
+  <li>💬 Ask me about web development</li>
+</ul>
+
+<p align="center">
+   <img src="https://komarev.com/ghpvc/?username=jfilipedias" alt="jfilipedias" />
+  <a href="https://www.linkedin.com/in/jfilipedias/" target="_blank"><img src="https://img.shields.io/badge/-Filipe%20Dias-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jfilipedias/"/></a>
+  <a href="mailto:filipediascontato@gmail.com"><img src="https://img.shields.io/badge/-filipediascontato@gmail.com-red?style=flat&logo=Gmail&logoColor=white&link=mailto:filipediascontato@gmail.com"/></a>
+   <img alt="GitHub followers" src="https://img.shields.io/github/followers/jfilipedias?style=social">       
+</p>
 
 <div>
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jfilipedias&theme=&show_icons=true&include_all_commits=true&count_private=true&&hide=issues,prs" />
