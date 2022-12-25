@@ -1,10 +1,10 @@
 <h3>
-  Hi there, I'm Filipe Dias 👋
+  Hi there, I'm Filipe Dias. A developer passionate about learning new things 👋
 </h3>
 
 <ul>
   <li>🔭 I’m currently working as a Software Engenieer at Alpha Systemas</li>
-  <li>🌱 I’m currently learning Node and React</li>
+  <li>🌱 I’m currently focused on fullstack development with Node and React</li>
   <li>💬 Ask me about web development</li>
 </ul>
 
