@@ -14,7 +14,7 @@
 
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,ts,jest,react,nextjs,sass,styledcomponents,tailwind,vite,nodejs,express,nestjs,prisma,postgres,docker,aws,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,ts,jest,react,nextjs,tailwind,styledcomponents,vite,nodejs,express,nestjs,prisma,cs,dotnet,sqlite,postgres,docker,aws,vercel,netlify,figma" />
   </a>
 </div>
 
@@ -27,7 +27,14 @@
    <img alt="GitHub followers" src="https://img.shields.io/github/followers/jfilipedias?style=social">       
 </div>
 
+<br>
+
 <div align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jfilipedias&theme=&show_icons=true&include_all_commits=true&count_private=true&&hide=issues,prs" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfilipedias&layout=compact&langs_count=10&hide=postscript,livescript,pascal,html,css,sass,scss,shaderlab,hlsl,shell,d,objective-c,arduino,lex,php,makefile,cmake,yacc,plpgsql,tsql,tcl,processing,apacheconf,perl,elixir,handlebars,dockerfile"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=jfilipedias&show_icons=true&count_private=true&hide=issues" />
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfilipedias&layout=compact&langs_count=6&hide=shaderlab,hlsl," />
+  </a>
 </div>
