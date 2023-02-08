@@ -1,6 +1,9 @@
-<h3>
+![og](https://user-images.githubusercontent.com/44031127/217668445-bef23f8c-c18e-4ed0-a07b-43f6e32e005c.png)
+
+
+<h2>
   Hi there, I'm Filipe Dias. A developer passionate about learning new things 👋
-</h3>
+</h2>
 
 <ul>
   <li>🔭 I’m currently working as a Software Engenieer at Alpha Systemas</li>
