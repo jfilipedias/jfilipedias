@@ -1,4 +1,4 @@
-![og](https://user-images.githubusercontent.com/44031127/217668445-bef23f8c-c18e-4ed0-a07b-43f6e32e005c.png)
+<img src="https://filipedias.dev/og.png" />
 
 
 <h2>
