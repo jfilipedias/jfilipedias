@@ -13,7 +13,7 @@
 
 <br>
 
-<p>Some of my skills are:</p>
+<p>Some tools I've worked with:</p>
 
 <div>
   <a href="https://skillicons.dev">
