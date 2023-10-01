@@ -1,4 +1,4 @@
-<img src="https://filipedias.dev/opengraph-image.png" />
+<img src="https://filipedias.dev/default-og.png" />
 
 
 <h2>
