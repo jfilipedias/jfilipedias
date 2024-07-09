@@ -1,6 +1,3 @@
-<img src="https://filipedias.dev/default-og.png" />
-
-
 <h2>
   Hi there, I'm Filipe Dias. A developer passionate about learning new things 👋
 </h2>
@@ -17,7 +14,7 @@
 
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,ts,jest,vitest,vite,astro,svelte,react,nextjs,tailwind,styledcomponents,nodejs,express,nestjs,prisma,go,cs,dotnet,sqlite,postgres,mysql,docker,linux,aws,vercel,netlify,figma" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,jest,vitest,vite,astro,svelte,react,nextjs,remix,tailwind,nodejs,express,prisma,go,cs,dotnet,sqlite,postgres,docker,linux,figma" />
   </a>
 </div>
 
