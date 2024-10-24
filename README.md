@@ -1,40 +1,8 @@
-<h2>
-  Hi there, I'm Filipe Dias. A developer passionate about learning new things 👋
-</h2>
+## Hi there, I'm Filipe Dias
 
-<ul>
-  <li>🔭 I’m currently working as a Software Engenieer at Alpha Systemas</li>
-  <li>🌱 I’m currently focused on fullstack development with Node and React</li>
-  <li>💬 Ask me about web development</li>
-</ul>
+- 🔭 I’m currently working as a Software Engenieer at Alpha Sistemas
+- 🌱 I’m currently focused on web development with Go and React
 
-<br>
+Some tools I've worked with:
 
-<p>Some tools I've worked with:</p>
-
-<div>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,jest,vitest,vite,astro,svelte,react,nextjs,remix,tailwind,nodejs,express,prisma,go,cs,dotnet,sqlite,postgres,docker,linux,figma" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-   <img src="https://komarev.com/ghpvc/?username=jfilipedias" alt="jfilipedias" />
-  <a href="https://www.linkedin.com/in/jfilipedias/" target="_blank"><img src="https://img.shields.io/badge/-Filipe%20Dias-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jfilipedias/"/></a>
-  <a href="mailto:filipediascontato@gmail.com"><img src="https://img.shields.io/badge/-filipediascontato@gmail.com-red?style=flat&logo=Gmail&logoColor=white&link=mailto:filipediascontato@gmail.com"/></a>
-   <img alt="GitHub followers" src="https://img.shields.io/github/followers/jfilipedias?style=social">       
-</div>
-
-<br>
-
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=jfilipedias&show_icons=true&count_private=true&hide=issues" />
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfilipedias&layout=compact&langs_count=6&hide=shaderlab,hlsl," />
-  </a>
-</div>
+![image](https://skillicons.dev/icons?i=git,nodejs,react,remix,svelte,go,dotnet,postgres,linux,docker,aws)
