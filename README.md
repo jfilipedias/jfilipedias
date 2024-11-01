@@ -5,4 +5,4 @@
 
 Some tools I've worked with:
 
-![image](https://skillicons.dev/icons?i=git,nodejs,react,remix,svelte,go,dotnet,postgres,linux,docker,aws)
+![image](https://skillicons.dev/icons?i=git,react,remix,svelte,go,nodejs,dotnet,postgres,linux,docker,aws)
